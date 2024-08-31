@@ -1,5 +1,6 @@
 # Netflix-Analytical-Dashboard
 This Power BI dashboard provides a comprehensive analysis of Netflix content, offering insights into movie and TV show titles, genres, ratings, and countries.
+Dataset : https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list
 Key Features
 
     Total Titles by Genre: Displays the number of titles within each genre.
